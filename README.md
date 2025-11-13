@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ashlee  
 
-<!--
-**Ash-pinky/Ash-pinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Current diploma in Information Technology student  
+💻 Passionate about programming, web development, and game creation  
+🚀 Always learning, experimenting, and taking small steps toward becoming a **Game Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+- 🌱 Currently strengthening my skills in **C++**, **Python**, and **Java**  
+- 🎮 Dreaming big: I aim to create and design my own games in the future  
+- 🧩 Enjoy solving coding challenges and improving project structures  
+- 🤝 Experienced working in teams for academic and group projects  
+
+### 🛠️ Tech Stack  
+**Languages:**  
+`C++` · `Python` · `PHP` · `Java`  
+
+**Web Development:**  
+`HTML` · `CSS` · `JavaScript` · `MySQL`  
+
+**Tools & IDEs:**  
+`Visual Studio` · `VS Code` · `XAMPP` · `Git` · `GitHub`  
+
+**Game Development (still learning):**  
+`Unity` · `Unreal Engine (C++)`  
+ 
