@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ashlee  
+# 👋 Hi there! I'm Ashlee  
 
 🎓 Current diploma in Information Technology student  
 💻 Passionate about programming, web development, and game creation  
